@@ -13,3 +13,5 @@ Você pode entrar em contato comigo 📫
 0000114671489SP@al.educacao.sp.gov.br
 
 emillesilvasousa180209@gmail.com
+> Escrito por Alura Start
+A palavra **limão** deve ser destacada.

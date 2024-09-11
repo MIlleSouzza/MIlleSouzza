@@ -14,4 +14,3 @@ Você pode entrar em contato comigo 📫
 
 emillesilvasousa180209@gmail.com
 > Escrito por Alura Start
-A palavra **limão** deve ser destacada.
